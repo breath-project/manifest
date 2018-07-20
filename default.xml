@@ -9,7 +9,6 @@
              remote="breath"
              sync-j="4"/>
 
-    <project path="demo" name="demo"/>
     <project name="config-repo"/>
 
     <!--<project path="build/make" name="platform/build" groups="pdk">-->
