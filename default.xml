@@ -12,6 +12,7 @@
     <project name="config-repo"/>
     <project name="breath-cloud-demo"/>
     <project path="projects/bom" name="breath-bom" />
+    <project path="projects/utils/image" name="breath-image-util" />
 
     <!--<project path="build/make" name="platform/build" groups="pdk">-->
     <!--<copyfile src="core/root.mk" dest="Makefile"/>-->
