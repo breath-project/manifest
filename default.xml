@@ -11,6 +11,7 @@
 
     <project name="config-repo"/>
     <project name="breath-cloud-demo"/>
+    <project path="projects/docker/elastic-docker" name="elastic-docker" />
     <project path="projects/bom" name="breath-bom" />
     <project path="projects/demo" name="breath-demo" />
     <project path="projects/utils/image" name="breath-image-util" />
