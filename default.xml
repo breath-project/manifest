@@ -9,6 +9,7 @@
              remote="breath"
              sync-j="4"/>
 
+    <project name="manifest"/>
     <project name="config-repo"/>
     <project name="breath-cloud-demo"/>
     <project path="projects/docker/elastic-docker" name="elastic-docker" />
