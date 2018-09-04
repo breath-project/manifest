@@ -11,7 +11,8 @@
 
     <project name="manifest"/>
     <project name="config-repo"/>
-    <project path="projects/docker/elastic-docker" name="elastic-docker" />
+    <project path="docker/mesos-docker" name="mesos-docker" />
+    <project path="docker/elastic-docker" name="elastic-docker" />
     <project path="projects/breath-cloud-demo" name="breath-cloud-demo"/>
     <project path="projects/oauth2-sso-demo" name="oauth2-sso-demo"/>
     <project path="projects/bom" name="breath-bom" />
