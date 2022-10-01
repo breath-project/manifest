@@ -9,7 +9,7 @@
              remote="breath"
              sync-j="4"/>
 
-    <project name="manifest" revision="master" />
+    <project name="manifest" />
     <project name="config-repo" revision="master" />
     <project path="docker/mesos-docker" name="mesos-docker" revision="master" />
     <project path="docker/elastic-docker" name="elastic-docker" revision="master" />
