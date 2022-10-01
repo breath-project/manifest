@@ -10,9 +10,9 @@
              sync-j="4"/>
 
     <project name="manifest" />
-    <project name="config-repo" revision="master" />
+    <project name="config-repo" />
     <project path="docker/mesos-docker" name="mesos-docker" revision="master" />
-    <project path="docker/elastic-docker" name="elastic-docker" revision="master" />
+    <project path="docker/elastic-docker" name="elastic-docker" revision="develop" />
     <project path="projects/breath-cloud-demo" name="breath-cloud-demo" />
     <project path="projects/oauth2-sso-demo" name="oauth2-sso-demo" revision="master" />
     <project path="projects/bom" name="breath-bom" revision="master" />
